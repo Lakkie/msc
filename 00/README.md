@@ -25,3 +25,14 @@
 |00A72|General theory of simulation
 |00A79|Physics (Use more specific entries from Sections 70 through 86 when possible)
 |00A99|None of the above, but in this section
+|00Bxx|Conference proceedings and collections of articles
+|00B05|Collections of abstracts of lectures
+|00B10|Collections of articles of general interest
+|00B15|Collections of articles of miscellaneous specific interest
+|00B20|Proceedings of conferences of general interest
+|00B25|Proceedings of conferences of miscellaneous specific interest
+|00B30|Festschriften
+|00B50|Collections of translated articles of general interest
+|00B55|Collections of translated articles of miscellaneous specific interest
+|00B60|Collections of reprinted articles [See also 01A75]
+|00B99|None of the above, but in this section
