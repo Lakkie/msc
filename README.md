@@ -6,7 +6,6 @@ https://mathscinet.ams.org/mathscinet/msc-search
 |00|General and overarching topics; collections             |总论|
 |01|History and biography                                   |数学史与人物传记|
 |03|Mathematical logic and foundations                      |数理逻辑与数学基础|
-
 |05|Combinatorics                                           |组合数学|
 |06|Order, lattices, ordered algebraic structures           |序理论、格论、序代数结构|
 |08|General algebraic systems                               |一般代数系统|
@@ -21,7 +20,6 @@ https://mathscinet.ams.org/mathscinet/msc-search
 |19|K-theory                                                |K-理论|
 |20|Group theory and generalizations                        |群论及其推广|
 |22|Topological groups, Lie groups                          |拓扑群与李群|
-
 |26|Real functions                                          |实变函数|
 |28|Measure and integration                                 |测度与积分|
 |30|Functions of a complex variable                         |复变函数|
@@ -41,7 +39,6 @@ https://mathscinet.ams.org/mathscinet/msc-search
 |46|Functional analysis                                     |泛函分析|
 |47|Operator theory                                         |算子理论|
 |49|Calculus of variations and optimal control; optimization|变分法与最优控制|
-
 |51|Geometry                                                |几何学|
 |52|Convex and discrete geometry                            |凸几何与离散几何|
 |53|Differential geometry                                   |微分几何|
@@ -49,7 +46,6 @@ https://mathscinet.ams.org/mathscinet/msc-search
 |55|Algebraic topology                                      |代数拓扑|
 |57|Manifolds and cell complexes                            |流形与胞腔复形|
 |58|Global analysis, analysis on manifolds                  |整体分析与流形上的分析|
-
 |60|Probability theory and stochastic processes             |概率论与随机过程|
 |62|Statistics                                              |数理统计|
 |65|Numerical analysis                                      |数值分析|
