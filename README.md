@@ -1,5 +1,5 @@
 # Mathematics Subject Classification System
-https://mathscinet.ams.org/mathscinet/msc-search
+https://mathscinet.ams.org/mathscinet/
 
 |NO|EN|CN|
 |---|---|---|
