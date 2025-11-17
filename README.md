@@ -6,7 +6,7 @@ https://mathscinet.ams.org/mathscinet/msc-search
 |00|General and overarching topics; collections             |总论|
 |01|History and biography                                   |数学史与人物传记|
 |03|Mathematical logic and foundations                      |数理逻辑与数学基础|
-|05|Combinatorics                                           |组合数学|
+|05|Combinatorics                                           |组合学|
 |06|Order, lattices, ordered algebraic structures           |序理论、格论、序代数结构|
 |08|General algebraic systems                               |一般代数系统|
 |11|Number theory                                           |数论|
