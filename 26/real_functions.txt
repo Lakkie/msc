@@ -1,0 +1,5 @@
+What are real functions?
+Real functions‌ are functions where both the domain (input values) and the range (output values) consist of real numbers‌. In other words, a real function maps real numbers to other real numbers.
+
+什么是实函数？
+实函数是域（输入值）和范围（输出值）都由实数组成的函数‌。 换句话说，实数函数将实数映射到其他实数。

@@ -1,0 +1,5 @@
+What is combinatorics?
+Combinatorics is a branch of mathematics concerned with counting, arranging, and analyzing finite or discrete structures. It includes topics like permutations, combinations, graph theory, and combinatorial designs. The field is fundamental in computer science, statistics, and operations research.
+
+什么是组合学？
+组合数学是数学的一个分支，涉及有限或离散结构的计数、排列和分析。它包括诸如排列、组合、图论和组合设计等主题。该领域是计算机科学、统计学和运筹学的基础。

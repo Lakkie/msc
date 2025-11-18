@@ -5,7 +5,7 @@
 |97-01|Introductory exposition (textbooks, tutorial papers, etc.) pertaining to mathematics education|与数学教育有关的介绍性阐述（教科书、教程等）|
 |97-02|Research exposition (monographs, survey articles) pertaining to mathematics education|与数学教育有关的研究阐述（专著、调查文章）|
 |97-03|History of mathematics education [Consider also classification numbers pertaining to Section 01]|数学教育史[也考虑与第01节相关的分类号]|
-|97-06|Proceedings, conferences, collections, etc. pertaining to mathematics education|与数学教育有关的会议记录、会议、文集等|
+|97-06|Proceedings, conferences, collections, etc. pertaining to mathematics education|与数学教育有关的会刊、会议、文集等|
 |97-11|Research data for problems pertaining to mathematics education|与数学教育有关问题的研究数据|
 |97Axx|History and society (aspects of mathematics education)|历史与社会（数学教育方面）|
 |97A30|History in mathematics education {For mathematics history, see 01-XX; for biographies, see 01A70; for history of mathematics education, see 97-03}|数学教育史{数学史见01-XX；传记见01A70；数学教育史见97-03}|
