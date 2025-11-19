@@ -20,7 +20,7 @@ https://mathscinet.ams.org/mathscinet/
 |19|K-theory                                                |K-理论|离散数学与代数学|
 |20|Group theory and generalizations                        |群论及其推广|离散数学与代数学|
 |22|Topological groups, Lie groups                          |拓扑群与李群|离散数学与代数学|
-|26|Real functions                                          |实变函数|分析与微分方程|
+|26|Real functions                                          |实函数|分析与微分方程|
 |28|Measure and integration                                 |测度与积分|分析与微分方程|
 |30|Functions of a complex variable                         |复变函数|分析与微分方程|
 |31|Potential theory                                        |势理论|分析与微分方程|
