@@ -4,7 +4,7 @@
 |26-00|General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to real functions|与实函数有关的通用参考工具书（手册、词典、参考书目等）|
 |26-01|Introductory exposition (textbooks, tutorial papers, etc.) pertaining to real functions|与实函数有关的介绍性阐述（教科书、教程等）|
 |26-02|Research exposition (monographs, survey articles) pertaining to real functions|与实函数有关的研究阐述（专著、调查文章）|
-|26-03|History of real functions [Consider also classification numbers pertaining to Section 01]|实函数史|
+|26-03|History of real functions [Consider also classification numbers pertaining to Section 01]|实函数史[也考虑与第01节相关的分类号]|
 |26-04|Software, source code, etc. for problems pertaining to real functions|与实函数有关的问题（求解）的软件、源代码等|
 |26-06|Proceedings, conferences, collections, etc. pertaining to real functions|与实函数有关的会刊、会议、文集等|
 |26-08|Computational methods for problems pertaining to real functions|与实函数有关的问题（求解）的计算方法|
