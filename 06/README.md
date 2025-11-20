@@ -18,7 +18,7 @@
 |06A15|Galois correspondences, closure operators (in relation to ordered sets)|伽罗瓦对应、闭包算子（就有序集而言）|
 |06A75|Generalizations of ordered sets|有序集的推广|
 |06A99|None of the above, but in this section|以上都没有，但在本节中（的其他内容）|
-|06Bxx|Lattices [See also 03G10]|格|
+|06Bxx|Lattices [See also 03G10]|格[另见03G10]|
 |06B05|Structure theory of lattices|格的结构理论|
 |06B10|Lattice ideals, congruence relations|格理想、同余关系|
 |06B15|Representation theory of lattices|格的表示理论|
