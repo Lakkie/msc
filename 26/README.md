@@ -1,14 +1,14 @@
 |NO|EN|CN|
 |---|---|---|
 |26-XX|Real functions [See also 54C30]|实函数[另请参见54C30]|
-|26-00|General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to real functions|与实函数有关的通用参考工具书（手册、词典、参考书目等）|
-|26-01|Introductory exposition (textbooks, tutorial papers, etc.) pertaining to real functions|与实函数有关的介绍性阐述（教科书、教程等）|
-|26-02|Research exposition (monographs, survey articles) pertaining to real functions|与实函数有关的研究阐述（专著、调查文章）|
-|26-03|History of real functions [Consider also classification numbers pertaining to Section 01]|实函数史[也考虑与第01节相关的分类号]|
-|26-04|Software, source code, etc. for problems pertaining to real functions|与实函数有关的问题（求解）的软件、源代码等|
+|26-00|General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to real functions|与实函数有关的一般参考工作（手册、词典、书目等）|
+|26-01|Introductory exposition (textbooks, tutorial papers, etc.) pertaining to real functions|与实函数有关的导论性论述（教科书、教程论文等）|
+|26-02|Research exposition (monographs, survey articles) pertaining to real functions|与实函数有关的研究性论述（专著、调查文章）|
+|26-03|History of real functions [Consider also classification numbers pertaining to Section 01]|实函数的历史[也考虑与第01节相关的分类号]|
+|26-04|Software, source code, etc. for problems pertaining to real functions|与实函数有关问题的软件、源代码等|
 |26-06|Proceedings, conferences, collections, etc. pertaining to real functions|与实函数有关的会刊、会议、文集等|
-|26-08|Computational methods for problems pertaining to real functions|与实函数有关的问题（求解）的计算方法|
-|26-11|Research data for problems pertaining to real functions|与实函数有关的问题（求解）的研究数据|
+|26-08|Computational methods for problems pertaining to real functions|与实函数有关问题的计算方法|
+|26-11|Research data for problems pertaining to real functions|与实函数有关问题的研究数据|
 |26Axx|Functions of one variable|单变量函数|
 |26A03|Foundations: limits and generalizations, elementary topology of the line|基础：极限与推广，线的初等拓扑|
 |26A06|One-variable calculus|单变量微积分|

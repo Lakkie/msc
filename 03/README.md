@@ -1,16 +1,16 @@
 |NO|EN|CN|
 |---|---|---|
 |03-XX|Mathematical logic and foundations|数理逻辑和基础|
-|03-00|General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to mathematical logic and foundations|与数理逻辑和基础有关的通用参考工具书（手册、词典、参考书目等）|
-|03-01|Introductory exposition (textbooks, tutorial papers, etc.) pertaining to mathematical logic and foundations|与数理逻辑和基础有关的介绍性阐述（教科书、教程等）|
-|03-02|Research exposition (monographs, survey articles) pertaining to mathematical logic and foundations|与数理逻辑和基础有关的研究阐述（专著、调查文章）|
-|03-03|History of mathematical logic and foundations [Consider also classification numbers pertaining to Section 01]|数理逻辑和基础史[也考虑与第01节相关的分类号]|
-|03-04|Software, source code, etc. for problems pertaining to mathematical logic and foundations|与数理逻辑和基础有关的问题（求解）的软件、源代码等|
+|03-00|General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to mathematical logic and foundations|与数理逻辑和基础有关的一般参考工作（手册、词典、书目等）|
+|03-01|Introductory exposition (textbooks, tutorial papers, etc.) pertaining to mathematical logic and foundations|与数理逻辑和基础有关的导论性论述（教科书、教程论文等）|
+|03-02|Research exposition (monographs, survey articles) pertaining to mathematical logic and foundations|与数理逻辑和基础有关的研究性论述（专著、调查文章）|
+|03-03|History of mathematical logic and foundations [Consider also classification numbers pertaining to Section 01]|数理逻辑和基础的历史[也考虑与第01节相关的分类号]|
+|03-04|Software, source code, etc. for problems pertaining to mathematical logic and foundations|与数理逻辑和基础有关问题的软件、源代码等|
 |03-06|Proceedings, conferences, collections, etc. pertaining to mathematical logic and foundations|与数理逻辑和基础有关的会刊、会议、文集等|
-|03-08|Computational methods for problems pertaining to mathematical logic and foundations|与数理逻辑和基础有关的问题（求解）的计算方法|
-|03-11|Research data for problems pertaining to mathematical logic and foundations|与数理逻辑和基础有关的问题（求解）的研究数据|
-|03Axx|Philosophical aspects of logic and foundations|逻辑和基础的哲学方面|
-|03A05|Philosophical and critical aspects of logic and foundations {For philosophy of mathematics, see also 00A30}|逻辑和基础的哲学和批判方面{数学哲学，另见00A30}|
+|03-08|Computational methods for problems pertaining to mathematical logic and foundations|与数理逻辑和基础有关问题的计算方法|
+|03-11|Research data for problems pertaining to mathematical logic and foundations|与数理逻辑和基础有关问题的研究数据|
+|03Axx|Philosophical aspects of logic and foundations|逻辑和基础的哲学层面|
+|03A05|Philosophical and critical aspects of logic and foundations {For philosophy of mathematics, see also 00A30}|逻辑和基础的哲学和批判层面{数学哲学，另见00A30}|
 |03A10|Logic in the philosophy of science|科学哲学中的逻辑|
 |03A99|None of the above, but in this section|以上都没有，但在本节中（的其他内容）|
 |03Bxx|General logic|一般逻辑|
@@ -27,7 +27,7 @@
 |03B42|Logics of knowledge and belief (including belief change)|知识与信念逻辑（包括信念更新）|
 |03B44|Temporal logic|时序逻辑|
 |03B45|Modal logic (including the logic of norms) {For knowledge and belief, see 03B42; for temporal logic, see 03B44; for provability logic, see also 03F45}|模态逻辑（包括规范逻辑）{知识与信念见03B42；时序逻辑见03B44；可证性逻辑另见03F45}|
-|03B47|Substructural logics (including relevance, entailment, linear logic, Lambek calculus, BCK and BCI logics) {For proof-theoretic aspects, see 03F52}|子结构逻辑（包括相关逻辑、蕴涵逻辑、线性逻辑、Lambek演算、BCK与BCI逻辑）{证明论方面见03F52}|
+|03B47|Substructural logics (including relevance, entailment, linear logic, Lambek calculus, BCK and BCI logics) {For proof-theoretic aspects, see 03F52}|子结构逻辑（包括相关逻辑、蕴涵逻辑、线性逻辑、Lambek演算、BCK与BCI逻辑）{证明论层面见03F52}|
 |03B48|Probability and inductive logic [See also 60A05]|概率与归纳逻辑[另见60A05]|
 |03B50|Many-valued logic|多值逻辑|
 |03B52|Fuzzy logic; logic of vagueness [See also 68T27, 68T37, 94D05]|模糊逻辑；模糊性逻辑[另见68T27、68T37、94D05]|
@@ -89,7 +89,7 @@
 |03D65|Higher-type and set recursion theory|高阶与集合递归论|
 |03D70|Inductive definability|归纳可定义性|
 |03D75|Abstract and axiomatic computability and recursion theory|抽象与公理化可计算性与递归论|
-|03D78|Computation over the reals, computable analysis {For constructive aspects, see 03F60}|实数上的计算、可计算分析{构造性方面见03F60}|
+|03D78|Computation over the reals, computable analysis {For constructive aspects, see 03F60}|实数上的计算、可计算分析{构造性层面见03F60}|
 |03D80|Applications of computability and recursion theory|可计算性与递归论的应用|
 |03D99|None of the above, but in this section|以上都没有，但在本节中（的其他内容）|
 |03Exx|Set theory|集合论|
@@ -134,11 +134,11 @@
 |03F65|Other constructive mathematics [See also 03D45]|其他构造数学[另见03D45]|
 |03F99|None of the above, but in this section|以上都没有，但在本节中（的其他内容）|
 |03Gxx|Algebraic logic|代数逻辑|
-|03G05|Logical aspects of Boolean algebras [See also 06Exx]|布尔代数的逻辑方面[另见06Exx]|
-|03G10|Logical aspects of lattices and related structures [See also 06Bxx]|格和相关结构的逻辑方面[另见06Bxx]|
+|03G05|Logical aspects of Boolean algebras [See also 06Exx]|布尔代数的逻辑层面[另见06Exx]|
+|03G10|Logical aspects of lattices and related structures [See also 06Bxx]|格和相关结构的逻辑层面[另见06Bxx]|
 |03G12|Quantum logic [See also 06C15, 81P10]|量子逻辑[另见06C15、81P10]|
 |03G15|Cylindric and polyadic algebras; relation algebras|柱面代数和多元代数；关系代数|
-|03G20|Logical aspects of Lukasiewicz and Post algebras [See also 06D25, 06D30]|卢卡西维奇代数和波斯特代数‌‌的逻辑方面[另见06D25、06D30]|
+|03G20|Logical aspects of Lukasiewicz and Post algebras [See also 06D25, 06D30]|卢卡西维奇代数和波斯特代数‌‌的逻辑层面[另见06D25、06D30]|
 |03G25|Other algebras related to logic [See also 03F45, 06D20, 06E25, 06F35]|与逻辑相关的其他代数[另见03F45、06D20、06E25、06F35]|
 |03G27|Abstract algebraic logic|抽象代数逻辑|
 |03G30|Categorical logic, topoi [See also 18B25, 18C05, 18C10]|范畴逻辑，拓扑[另见18B25、18C05、18C10]|

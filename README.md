@@ -7,7 +7,7 @@ https://mathscinet.ams.org/mathscinet/
 |01|History and biography                                   |数学史与人物传记|通用与数学基础|
 |03|Mathematical logic and foundations                      |数理逻辑与数学基础|通用与数学基础|
 |05|Combinatorics                                           |组合学|离散数学与代数学|
-|06|Order, lattices, ordered algebraic structures           |序理论、格论、序代数结构|离散数学与代数学|
+|06|Order, lattices, ordered algebraic structures           |序、格、有序代数结构|离散数学与代数学|
 |08|General algebraic systems                               |一般代数系统|离散数学与代数学|
 |11|Number theory                                           |数论|离散数学与代数学|
 |12|Field theory and polynomials                            |域论与多项式|离散数学与代数学|
