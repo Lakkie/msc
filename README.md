@@ -22,7 +22,7 @@ https://mathscinet.ams.org/mathscinet/
 |22|Topological groups, Lie groups                          |拓扑群与李群|离散数学与代数学|
 |26|Real functions                                          |实函数|分析与微分方程|
 |28|Measure and integration                                 |测度与积分|分析与微分方程|
-|30|Functions of a complex variable                         |复变函数|分析与微分方程|
+|30|Functions of a complex variable                         |单复变函数|分析与微分方程|
 |31|Potential theory                                        |势理论|分析与微分方程|
 |32|Several complex variables and analytic spaces           |多复变函数与解析空间|分析与微分方程|
 |33|Special functions                                       |特殊函数|分析与微分方程|
