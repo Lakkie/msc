@@ -81,7 +81,7 @@
 |03D30|Other degrees and reducibilities in computability and recursion theory|可计算性与递归论中的其他度与可归约性|
 |03D32|Algorithmic randomness and dimension [See also 68Q30]|算法随机性与维数[另见68Q30]|
 |03D35|Undecidability and degrees of sets of sentences|句集不可判定性与度|
-|03D40|Word problems, etc. in computability and recursion theory [See also 06B25, 08A50, 20F10, 68R15]|可计算性与递归论中的字问题等[另见06B25、08A50、20F10、68R15]|
+|03D40|Word problems, etc. in computability and recursion theory [See also 06B25, 08A50, 20F10, 68R15]|可计算性与递归论中的文字题等[另见06B25、08A50、20F10、68R15]|
 |03D45|Theory of numerations, effectively presented structures [See also 03C57] {For intuitionistic and similar approaches, see 03F55}|枚举理论、有效呈现结构[另见03C57] {直觉主义等进路见03F55}|
 |03D50|Recursive equivalence types of sets and structures, isols|集合、结构、isol的递归等价类型|
 |03D55|Hierarchies of computability and definability|可计算性与可定义性层次|

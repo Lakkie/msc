@@ -24,7 +24,7 @@
 |06B15|Representation theory of lattices|格的表示理论|
 |06B20|Varieties of lattices|格的代数类|
 |06B23|Complete lattices, completions|完备格、完备化|
-|06B25|Free lattices, projective lattices, word problems [See also 03D40, 08A50, 20F10]|自由格、射影格、字问题[另见03D40、08A50、20F10]|
+|06B25|Free lattices, projective lattices, word problems [See also 03D40, 08A50, 20F10]|自由格、射影格、文字题[另见03D40、08A50、20F10]|
 |06B30|Topological lattices [See also 06F30, 22A26, 54F05, 54H12]|拓扑格[另见06F30、22A26、54F05、54H12]|
 |06B35|Continuous lattices and posets, applications [See also 06B30, 06D10, 06F30, 18B35, 22A26, 68Q55]|连续格与偏序集，应用[另见06B30、06D10、06F30、18B35、22A26、68Q55]|
 |06B75|Generalizations of lattices|格的推广|
