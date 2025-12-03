@@ -1,3 +1,115 @@
 |NO|EN|CN|
 |---|---|---|
-
+|51-XX|Geometry {For algebraic geometry, see 14-XX; for differential geometry, see 53-XX}
+|51-00|General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to geometry
+|51-01|Introductory exposition (textbooks, tutorial papers, etc.) pertaining to geometry
+|51-02|Research exposition (monographs, survey articles) pertaining to geometry
+|51-03|History of geometry [Consider also classification numbers pertaining to Section 01]
+|51-04|Software, source code, etc. for problems pertaining to geometry
+|51-06|Proceedings, conferences, collections, etc. pertaining to geometry
+|51-08|Computational methods for problems pertaining to geometry
+|51-11|Research data for problems pertaining to geometry
+|51Axx|Linear incidence geometry
+|51A05|General theory of linear incidence geometry and projective geometries
+|51A10|Homomorphism, automorphism and dualities in linear incidence geometry
+|51A15|Linear incidence geometric structures with parallelism
+|51A20|Configuration theorems in linear incidence geometry
+|51A25|Algebraization in linear incidence geometry [See also 12Kxx, 20N05]
+|51A30|Desarguesian and Pappian geometries
+|51A35|Non-Desarguesian affine and projective planes
+|51A40|Translation planes and spreads in linear incidence geometry
+|51A45|Incidence structures embeddable into projective geometries
+|51A50|Polar geometry, symplectic spaces, orthogonal spaces
+|51A99|None of the above, but in this section
+|51Bxx|Nonlinear incidence geometry
+|51B05|General theory of nonlinear incidence geometry
+|51B10|M¨obius geometries
+|51B15|Laguerre geometries
+|51B20|Minkowski geometries in nonlinear incidence geometry
+|51B25|Lie geometries in nonlinear incidence geometry
+|51B99|None of the above, but in this section
+|51Cxx|Ring geometry (Hjelmslev, Barbilian, etc.)
+|51C05|Ring geometry (Hjelmslev, Barbilian, etc.)
+|51C99|None of the above, but in this section
+|51Dxx|Geometric closure systems
+|51D05|Abstract (Maeda) geometries
+|51D10|Abstract geometries with exchange axiom
+|51D15|Abstract geometries with parallelism
+|51D20|Combinatorial geometries and geometric closure systems [See also 05B25, 05B35]
+|51D25|Lattices of subspaces and geometric closure systems [See also 05B35]
+|51D30|Continuous geometries, geometric closure systems and related topics [See also 06Cxx]
+|51D99|None of the above, but in this section
+|51Exx|Finite geometry and special incidence structures
+|51E05|General block designs in finite geometry [See also 05B05]
+|51E10|Steiner systems in finite geometry [See also 05B05]
+|51E12|Generalized quadrangles and generalized polygons in finite geometry
+|51E14|Finite partial geometries (general), nets, partial spreads
+|51E15|Finite affine and projective planes (geometric aspects)
+|51E20|Combinatorial structures in finite projective spaces [See also 05Bxx]
+|51E21|Blocking sets, ovals, k-arcs
+|51E22|Linear codes and caps in Galois spaces [See also 94B05]
+|51E23|Spreads and packing problems in finite geometry
+|51E24|Buildings and the geometry of diagrams
+|51E25|Other finite nonlinear geometries
+|51E26|Other finite linear geometries
+|51E30|Other finite incidence structures (geometric aspects) [See also 05B30]
+|51E99|None of the above, but in this section
+|51Fxx|Metric geometry
+|51F05|Absolute planes in metric geometry
+|51F10|Absolute spaces in metric geometry
+|51F15|Reflection groups, reflection geometries [See also 20H10, 20H15] {For Coxeter groups, see 20F55}
+|51F20|Congruence and orthogonality in metric geometry [See also 20H05]
+|51F25|Orthogonal and unitary groups in metric geometry [See also 20H05]
+|51F30|Lipschitz and coarse geometry of metric spaces [See also 53C23]
+|51F99|None of the above, but in this section
+|51Gxx|Ordered geometries (ordered incidence structures, etc.)
+|51G05|Ordered geometries (ordered incidence structures, etc.)
+|51G99|None of the above, but in this section
+|51Hxx|Topological geometry
+|51H05|General theory of topological geometry
+|51H10|Topological linear incidence structures
+|51H15|Topological nonlinear incidence structures
+|51H20|Topological geometries on manifolds [See also 57-XX]
+|51H25|Geometries with differentiable structure [See also 53Cxx, especially 53C70]
+|51H30|Geometries with algebraic manifold structure [See also 14-XX]
+|51H99|None of the above, but in this section
+|51Jxx|Incidence groups
+|51J05|General theory of incidence groups
+|51J10|Projective incidence groups
+|51J15|Kinematic spaces
+|51J20|Representation by near-fields and near-algebras [See also 12K05, 16Y30]
+|51J99|None of the above, but in this section
+|51Kxx|Distance geometry
+|51K05|General theory of distance geometry
+|51K10|Synthetic differential geometry
+|51K99|None of the above, but in this section
+|51Lxx|Geometric order structures [See also 53C75]
+|51L05|Geometry of orders of nondifferentiable curves
+|51L10|Directly differentiable curves in geometric order structures
+|51L15|n-vertex theorems via direct methods
+|51L20|Geometry of orders of surfaces
+|51L99|None of the above, but in this section
+|51Mxx|Real and complex geometry
+|51M04|Elementary problems in Euclidean geometries
+|51M05|Euclidean geometries (general) and generalizations
+|51M09|Elementary problems in hyperbolic and elliptic geometries
+|51M10|Hyperbolic and elliptic geometries (general) and generalizations
+|51M15|Geometric constructions in real or complex geometry
+|51M16|Inequalities and extremum problems in real or complex geometry {For convex problems, see 52A40}
+|51M20|Polyhedra and polytopes; regular figures, division of spaces [See also 51F15]
+|51M25|Length, area and volume in real or complex geometry [See also 26B15]
+|51M30|Line geometries and their generalizations [See also 53A25]
+|51M35|Synthetic treatment of fundamental manifolds in projective geometries (Grassmannians, Veronesians and their generalizations) [See also 14M15]
+|51M99|None of the above, but in this section
+|51Nxx|Analytic and descriptive geometry
+|51N05|Descriptive geometry [See also 65D17, 68U07]
+|51N10|Affine analytic geometry
+|51N15|Projective analytic geometry
+|51N20|Euclidean analytic geometry
+|51N25|Analytic geometry with other transformation groups
+|51N30|Geometry of classical groups [See also 14L35, 20Gxx]
+|51N35|Questions of classical algebraic geometry [See also 14Nxx]
+|51N99|None of the above, but in this section
+|51Pxx|Classical or axiomatic geometry and physics (should also be assigned at least one other classification number from Sections 70–86)
+|51P05|Classical or axiomatic geometry and physics (should also be assigned at least one other classification number from Sections 70–86)
+|51P99|None of the above, but in this section
