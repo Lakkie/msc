@@ -1,3 +1,166 @@
 |NO|EN|CN|
 |---|---|---|
-
+76-XX Fluid mechanics {For general continuum mechanics, see 74Axx, or other parts of 74-XX}
+76-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to fluid mechanics
+76-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to fluid mechanics
+76-02 Research exposition (monographs, survey articles) pertaining to fluid mechanics
+76-03 History of fluid mechanics [Consider also classification numbers pertaining to Section 01]
+76-04 Software, source code, etc. for problems pertaining to fluid mechanics
+76-05 Experimental work for problems pertaining to fluid mechanics
+76-06 Proceedings, conferences, collections, etc. pertaining to fluid mechanics
+76-10 Mathematical modeling or simulation for problems pertaining to fluid mechanics
+76-11 Research data for problems pertaining to fluid mechanics
+76Axx Foundations, constitutive equations, rheology, hydrodynamical models of non-fluid phenomena
+76A02 Foundations of fluid mechanics
+76A05 Non-Newtonian fluids
+76A10 Viscoelastic fluids
+76A15 Liquid crystals [See also 82D30]
+76A20 Thin fluid films
+76A25 Superfluids (classical aspects)
+76A30 Traffic and pedestrian flow models
+76A99 None of the above, but in this section
+76Bxx Incompressible inviscid fluids
+76B03 Existence, uniqueness, and regularity theory for incompressible inviscid fluids [See also 35Q35]
+76B07 Free-surface potential flows for incompressible inviscid fluids
+76B10 Jets and cavities, cavitation, free-streamline theory, water-entry problems, airfoil and hydrofoil theory, sloshing
+76B15 Water waves, gravity waves; dispersion and scattering, nonlinear interaction [See also 35Q30]
+76B20 Ship waves
+76B25 Solitary waves for incompressible inviscid fluids [See also 35C11]
+76B45 Capillarity (surface tension) for incompressible inviscid fluids [See also 76D45]
+76B47 Vortex flows for incompressible inviscid fluids
+76B55 Internal waves for incompressible inviscid fluids
+76B70 Stratification effects in inviscid fluids
+76B75 Flow control and optimization for incompressible inviscid fluids [See also 49Q10, 93C20, 93C95]
+76B99 None of the above, but in this section
+76Dxx Incompressible viscous fluids
+76D03 Existence, uniqueness, and regularity theory for incompressible viscous fluids [See also 35Q30]
+76D05 Navier-Stokes equations for incompressible viscous fluids [See also 35Q30]
+76D06 Statistical solutions of Navier-Stokes and related equations [See also 60H30, 76M35]
+76D07 Stokes and related (Oseen, etc.) flows
+76D08 Lubrication theory
+76D09 Viscous-inviscid interaction
+76D10 Boundary-layer theory, separation and reattachment, higher-order effects
+76D17 Viscous vortex flows
+76D25 Wakes and jets
+76D27 Other free boundary flows; Hele-Shaw flows
+76D33 Waves for incompressible viscous fluids
+76D45 Capillarity (surface tension) for incompressible viscous fluids [See also 76B45]
+76D50 Stratification effects in viscous fluids
+76D55 Flow control and optimization for incompressible viscous fluids [See also 49Q10, 93C20, 93C95]
+76D99 None of the above, but in this section
+76Exx Hydrodynamic stability
+76E05 Parallel shear flows in hydrodynamic stability
+76E06 Convection in hydrodynamic stability
+76E07 Rotation in hydrodynamic stability
+76E09 Stability and instability of nonparallel flows in hydrodynamic stability
+76E15 Absolute and convective instability and stability in hydrodynamic stability
+76E17 Interfacial stability and instability in hydrodynamic stability
+76E19 Compressibility effects in hydrodynamic stability
+76E20 Stability and instability of geophysical and astrophysical flows
+76E25 Stability and instability of magnetohydrodynamic and electrohydrodynamic flows
+76E30 Nonlinear effects in hydrodynamic stability
+76E99 None of the above, but in this section
+76Fxx Turbulence [See also 37-XX, 60Gxx, 60Jxx]
+76F02 Fundamentals of turbulence
+76F05 Isotropic turbulence; homogeneous turbulence
+76F06 Transition to turbulence
+76F10 Shear flows and turbulence
+76F20 Dynamical systems approach to turbulence [See also 37-XX]
+76F25 Turbulent transport, mixing
+76F30 Renormalization and other field-theoretical methods for turbulence [See also 81T99]
+76F35 Convective turbulence [See also 76E15, 76Rxx]
+76F40 Turbulent boundary layers
+76F45 Stratification effects in turbulence
+76F50 Compressibility effects in turbulence
+76F55 Statistical turbulence modeling [See also 76M35]
+76F60 k-ε modeling in turbulence
+76F65 Direct numerical and large eddy simulation of turbulence
+76F70 Control of turbulent flows
+76F80 Turbulent combustion; reactive turbulence
+76F99 None of the above, but in this section
+76Gxx General aerodynamics and subsonic flows
+76G25 General aerodynamics and subsonic flows
+76G99 None of the above, but in this section
+76Hxx Transonic flows
+76H05 Transonic flows
+76H99 None of the above, but in this section
+76Jxx Supersonic flows
+76J20 Supersonic flows
+76J99 None of the above, but in this section
+76Kxx Hypersonic flows
+76K05 Hypersonic flows
+76K99 None of the above, but in this section
+76Lxx Shock waves and blast waves in fluid mechanics [See also 35L67]
+76L05 Shock waves and blast waves in fluid mechanics [See also 35L67]
+76L99 None of the above, but in this section
+76Mxx Basic methods in fluid mechanics [See also 65-XX]
+76M10 Finite element methods applied to problems in fluid mechanics
+76M12 Finite volume methods applied to problems in fluid mechanics
+76M15 Boundary element methods applied to problems in fluid mechanics
+76M20 Finite difference methods applied to problems in fluid mechanics
+76M21 Inverse problems in fluid mechanics
+76M22 Spectral methods applied to problems in fluid mechanics
+76M23 Vortex methods applied to problems in fluid mechanics
+76M27 Visualization algorithms applied to problems in fluid mechanics
+76M28 Particle methods and lattice-gas methods
+76M30 Variational methods applied to problems in fluid mechanics
+76M35 Stochastic analysis applied to problems in fluid mechanics
+76M40 Complex variables methods applied to problems in fluid mechanics
+76M45 Asymptotic methods, singular perturbations applied to problems in fluid mechanics
+76M50 Homogenization applied to problems in fluid mechanics
+76M55 Dimensional analysis and similarity applied to problems in fluid mechanics
+76M60 Symmetry analysis, Lie group and Lie algebra methods applied to problems in fluid mechanics
+76M99 None of the above, but in this section
+76Nxx Compressible fluids and gas dynamics, general
+76N06 Compressible Navier-Stokes equations
+76N10 Existence, uniqueness, and regularity theory for compressible fluids and gas dynamics [See also 35L60, 35L65, 35Q30]
+76N15 Gas dynamics, general
+76N17 Viscous-inviscid interaction for compressible fluids and gas dynamics
+76N20 Boundary-layer theory for compressible fluids and gas dynamics
+76N25 Flow control and optimization for compressible fluids and gas dynamics
+76N30 Waves in compressible fluids
+76N99 None of the above, but in this section
+76Pxx Rarefied gas flows, Boltzmann equation in fluid mechanics [See also 82B40, 82C40, 82D05]
+76P05 Rarefied gas flows, Boltzmann equation in fluid mechanics [See also 82B40, 82C40, 82D05]
+76P99 None of the above, but in this section
+76Qxx Hydro- and aero-acoustics
+76Q05 Hydro- and aero-acoustics
+76Q99 None of the above, but in this section
+76Rxx Diffusion and convection
+76R05 Forced convection
+76R10 Free convection
+76R50 Diffusion [See also 60J60]
+76R99 None of the above, but in this section
+76Sxx Flows in porous media; filtration; seepage
+76S05 Flows in porous media; filtration; seepage
+76S99 None of the above, but in this section
+76Txx Multiphase and multicomponent flows
+76T06 Liquid-liquid two component flows
+76T10 Liquid-gas two-phase flows, bubbly flows
+76T15 Dusty-gas two-phase flows
+76T17 Two gas multicomponent flows
+76T20 Suspensions
+76T25 Granular flows [See also 74C99, 74E20]
+76T30 Three or more component flows
+76T99 None of the above, but in this section
+76Uxx Rotating fluids
+76U05 General theory of rotating fluids
+76U60 Geophysical flows [See also 86A05, 86A10]
+76U65 Rossby waves [See also 86A05, 86A10]
+76U99 None of the above, but in this section
+76Vxx Reaction effects in flows [See also 80A32]
+76V05 Reaction effects in flows [See also 80A32]
+76V99 None of the above, but in this section
+76Wxx Magnetohydrodynamics and electrohydrodynamics
+76W05 Magnetohydrodynamics and electrohydrodynamics
+76W99 None of the above, but in this section
+76Xxx Ionized gas flow in electromagnetic fields; plasmic flow [See also 82D10]
+76X05 Ionized gas flow in electromagnetic fields; plasmic flow [See also 82D10]
+76X99 None of the above, but in this section
+76Yxx Quantum hydrodynamics and relativistic hydrodynamics [See also 82D50, 83C55, 85A30]
+76Y05 Quantum hydrodynamics and relativistic hydrodynamics [See also 82D50, 83C55, 85A30]
+76Y99 None of the above, but in this section
+76Zxx Biological fluid mechanics [See also 74F10, 74L15, 92Cxx]
+76Z05 Physiological flows [See also 92C35]
+76Z10 Biopropulsion in water and in air
+76Z99 None of the above, but in this section
