@@ -50,19 +50,19 @@ https://mathscinet.ams.org/mathscinet/
 |62|Statistics                                              |数理统计|应用数学与交叉学科|
 |65|Numerical analysis                                      |数值分析|应用数学与交叉学科|
 |68|Computer science                                        |计算机科学|应用数学与交叉学科|
-|70|Mechanics of particles and systems                      |质点与系统力学|应用数学与交叉学科|
-|74|Mechanics of deformable solids                          |固体力学|应用数学与交叉学科|
+|70|Mechanics of particles and systems                      |粒子系统力学|应用数学与交叉学科|
+|74|Mechanics of deformable solids                          |变形体力学|应用数学与交叉学科|
 |76|Fluid mechanics                                         |流体力学|应用数学与交叉学科|
 |78|Optics, electromagnetic theory                          |光学与电磁理论|应用数学与交叉学科|
-|80|Classical thermodynamics, heat transfer                 |热力学与传热|应用数学与交叉学科|
+|80|Classical thermodynamics, heat transfer                 |经典热力学与热传递|应用数学与交叉学科|
 |81|Quantum theory                                          |量子理论|应用数学与交叉学科|
-|82|Statistical mechanics, structure of matter              |统计物理与物质结构|应用数学与交叉学科|
+|82|Statistical mechanics, structure of matter              |统计力学与物质结构|应用数学与交叉学科|
 |83|Relativity and gravitational theory                     |相对论与引力理论|应用数学与交叉学科|
 |85|Astronomy and astrophysics                              |天文学与天体物理|应用数学与交叉学科|
 |86|Geophysics                                              |地球物理|应用数学与交叉学科|
 |90|Operations research, mathematical programming           |运筹学与数学规划|应用数学与交叉学科|
-|91|Game theory, economics, social and behavioral sciences  |博弈论、经济学、社会行为科学|应用数学与交叉学科|
-|92|Biology and other natural sciences                      |生物数学与其他自然科学|应用数学与交叉学科|
+|91|Game theory, economics, social and behavioral sciences  |博弈论、经济学、社会科学和行为科学|应用数学与交叉学科|
+|92|Biology and other natural sciences                      |生物学与其他自然科学|应用数学与交叉学科|
 |93|Systems theory; control                                 |系统理论与控制|应用数学与交叉学科|
 |94|Information and communication, circuits                 |信息、通信与电路|应用数学与交叉学科|
 |97|Mathematics education                                   |数学教育|应用数学与交叉学科|
